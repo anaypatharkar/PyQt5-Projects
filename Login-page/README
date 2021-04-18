@@ -1,0 +1,5 @@
+import Mysql python package by using
+pip install pymysql
+
+import PyQt5 python package by using
+pip install pyqt5
